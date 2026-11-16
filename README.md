@@ -3,6 +3,8 @@
 EVPorter brings **SK Estival Versus** game data into Blender and writes your edits back in the game's
 own formats. It reads straight from the game's `GameData` folder. Requires Blender 4.2 or newer.
 
+<img width="1585" height="847" alt="screen2" src="https://github.com/user-attachments/assets/1dc08b79-fb18-40ae-8044-0f671d337fcc" />
+
 **Import**
 - **Characters** in any outfit: skeleton, body/costume, face, hair, underwear and bra, accessories placed where the
   game puts them, and the game's mesh variants (damage states, bust sizes).
@@ -25,4 +27,3 @@ own formats. It reads straight from the game's `GameData` folder. Requires Blend
 - **Stages:** edited stage models and collision meshes (make collision from any selected mesh).
 - **Motions** and **camera motions** back to `.tmo`.
 - 
-<img width="1585" height="847" alt="screen2" src="https://github.com/user-attachments/assets/1dc08b79-fb18-40ae-8044-0f671d337fcc" />
