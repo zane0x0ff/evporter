@@ -26,4 +26,4 @@ own formats. It reads straight from the game's `GameData` folder. Requires Blend
   sidebar, previewed in Blender, and are written into the exported models.
 - **Stages:** edited stage models and collision meshes (make collision from any selected mesh).
 - **Motions** and **camera motions** back to `.tmo`.
-- 
+  
