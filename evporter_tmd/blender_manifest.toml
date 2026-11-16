@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "evporter_tmd"
+version = "0.18.0"
+name = "EVPorter (SK Estival Versus)"
+tagline = "Import and export SK Estival Versus game data"
+maintainer = "zane0xff"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Import-Export"]
+
+[permissions]
+files = "Read the game's files from the GameData folder you choose"
